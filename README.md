@@ -1,5 +1,5 @@
 ### main skill
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-7F52FF?style=flat&logo=Java&logoColor=white"/>
   
@@ -20,7 +20,7 @@
 </p>
 
 ### sub skill
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   
